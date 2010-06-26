@@ -7,4 +7,5 @@ void main()
 	printf("create release_1 branch \n");
 	printf("after remot push \n");
          printf("add on window \n");
+         printf("add on window 2 \n");
 }
